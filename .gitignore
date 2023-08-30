@@ -5,4 +5,8 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 
+#img
+*.img
+*.jpg
+img/
 
